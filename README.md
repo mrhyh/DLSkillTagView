@@ -1,3 +1,5 @@
+版本说明:完全fork[DLSkillTagView](https://github.com/Liqiankun/DLSkillTagView).
+
 ![](https://github.com/Liqiankun/DLSkillTagView/raw/master/DLSkillTagView.png)<br>
 Choose skills view based on [SKTagView](https://github.com/zsk425/SKTagView). With DLSkillTagView you can type the tag you want,than add to the tagView.<br>
 一个基于[SKTagView](https://github.com/zsk425/SKTagView)的技能选择的View。用DLSkillTagView可以添加自己想要的技能。
